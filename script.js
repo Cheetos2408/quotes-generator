@@ -2,7 +2,7 @@ const quoteEl = document.getElementById("quote");
 const authorEl = document.getElementById("author");
 const btn = document.getElementById("btn");
 
-const API_KEY = "my api key";
+const API_KEY = "R3xLn8GtOUiL3wJIx40f1w==aPD3Yte8gEu2DpeY";
 
 async function getQuote() {
   quoteEl.textContent = "Загрузка...";
